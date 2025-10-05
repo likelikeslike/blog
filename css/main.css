@@ -2,25 +2,25 @@
   --body-bg-color: #eee;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: #394134;
   --selection-bg: #262a30;
   --selection-color: #eee;
   --blockquote-color: #666;
-  --link-color: #555;
-  --link-hover-color: #222;
+  --link-color: #394134;
+  --link-hover-color: #4051b5;
   --brand-color: #fff;
   --brand-hover-color: #fff;
-  --table-row-odd-bg-color: #f9f9f9;
+  --table-row-odd-bg-color: #f4f5f7;
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --theme-color: #222;
-  --btn-default-bg: #fff;
+  --btn-default-bg: #3f5973;
   --btn-default-color: #555;
   --btn-default-border-color: #555;
-  --btn-default-hover-bg: #222;
+  --btn-default-hover-bg: #4051b5;
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
-  --highlight-background: #f3f3f3;
+  --highlight-background: #f4f5f7;
   --highlight-foreground: #444;
   --highlight-gutter-background: #e1e1e1;
   --highlight-gutter-foreground: #555;
@@ -28,20 +28,20 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-bg-color: #282828;
-    --content-bg-color: #333;
+    --body-bg-color: #181c27;
+    --content-bg-color: #252d38;
     --card-bg-color: #555;
-    --text-color: #ccc;
+    --text-color: #d9dad3;
     --selection-bg: #bbb;
     --selection-color: #333;
     --blockquote-color: #bbb;
-    --link-color: #ccc;
-    --link-hover-color: #eee;
+    --link-color: #d9dad3;
+    --link-hover-color: #5fb1dd;
     --brand-color: #ddd;
     --brand-hover-color: #ddd;
-    --table-row-odd-bg-color: #282828;
+    --table-row-odd-bg-color: #2f3947;
     --table-row-hover-bg-color: #363636;
-    --menu-item-bg-color: #555;
+    --menu-item-bg-color: #3e4b5e;
     --theme-color: #222;
     --btn-default-bg: #222;
     --btn-default-color: #ccc;
@@ -49,7 +49,7 @@
     --btn-default-hover-bg: #666;
     --btn-default-hover-color: #ccc;
     --btn-default-hover-border-color: #666;
-    --highlight-background: #0d1117;
+    --highlight-background: #3c495b;
     --highlight-foreground: #c9d1d9;
     --highlight-gutter-background: #1f242a;
     --highlight-gutter-foreground: #b6bdc5;
@@ -404,243 +404,188 @@ td {
   top: -6px;
   transform: rotate(-45deg);
 }
-pre code.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 1em
-}
-code.hljs {
-  padding: 3px 5px
-}
-/*!
-  Theme: Default
-  Description: Original highlight.js style
-  Author: (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
-  Maintainer: @highlightjs/core-team
-  Website: https://highlightjs.org/
-  License: see project LICENSE
-  Touched: 2021
-*/
-/*
-This is left on purpose making default.css the single file that can be lifted
-as-is from the repository directly without the need for a build step
+/**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
 
-Typically this "required" baseline CSS is added by `makestuff.js` during build.
-*/
-pre code.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 1em
-}
-code.hljs {
-  padding: 3px 5px
-}
-/* end baseline CSS */
-.hljs {
-  background: #F3F3F3;
-  color: #444
-}
-/* Base color: saturation 0; */
-.hljs-subst {
-  /* default */
-  
-}
-/* purposely ignored */
-.hljs-formula,
-.hljs-attr,
-.hljs-property,
-.hljs-params {
-  
-}
-.hljs-comment {
-  color: #697070
-}
-.hljs-tag,
-.hljs-punctuation {
-  color: #444a
-}
-.hljs-tag .hljs-name,
-.hljs-tag .hljs-attr {
-  color: #444
-}
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-meta .hljs-keyword,
-.hljs-doctag,
-.hljs-name {
-  font-weight: bold
-}
-/* User color: hue: 0 */
-.hljs-type,
-.hljs-string,
-.hljs-number,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
-  color: #880000
-}
-.hljs-title,
-.hljs-section {
-  color: #880000;
-  font-weight: bold
-}
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-operator,
-.hljs-selector-pseudo {
-  color: #ab5656
-}
-/* Language color: hue: 90; */
-.hljs-literal {
-  color: #695
-}
-.hljs-built_in,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
-  color: #397300
-}
-/* Meta color: hue: 200 */
-.hljs-meta {
-  color: #1f7199
-}
-.hljs-meta .hljs-string {
-  color: #38a
-}
-/* Misc effects */
-.hljs-emphasis {
-  font-style: italic
-}
-.hljs-strong {
-  font-weight: bold
-}
-@media (prefers-color-scheme: dark) {
-pre code.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 1em
-}
-code.hljs {
-  padding: 3px 5px
-}
-/*!
-  Theme: GitHub Dark
-  Description: Dark theme as seen on github.com
-  Author: github.com
-  Maintainer: @Hirse
-  Updated: 2021-05-15
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
 
-  Outdated base version: https://github.com/primer/github-syntax-dark
-  Current colors taken from GitHub's CSS
-*/
-.hljs {
-  color: #c9d1d9;
-  background: #0d1117
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
 }
-.hljs-doctag,
-.hljs-keyword,
-.hljs-meta .hljs-keyword,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-type,
-.hljs-variable.language_ {
-  /* prettylights-syntax-keyword */
-  color: #ff7b72
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
 }
-.hljs-title,
-.hljs-title.class_,
-.hljs-title.class_.inherited__,
-.hljs-title.function_ {
-  /* prettylights-syntax-entity */
-  color: #d2a8ff
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
 }
-.hljs-attr,
-.hljs-attribute,
-.hljs-literal,
-.hljs-meta,
-.hljs-number,
-.hljs-operator,
-.hljs-variable,
-.hljs-selector-attr,
-.hljs-selector-class,
-.hljs-selector-id {
-  /* prettylights-syntax-constant */
-  color: #79c0ff
+
+@media print {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
 }
-.hljs-regexp,
-.hljs-string,
-.hljs-meta .hljs-string {
-  /* prettylights-syntax-string */
-  color: #a5d6ff
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
 }
-.hljs-built_in,
-.hljs-symbol {
-  /* prettylights-syntax-variable */
-  color: #ffa657
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
 }
-.hljs-comment,
-.hljs-code,
-.hljs-formula {
-  /* prettylights-syntax-comment */
-  color: #8b949e
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
 }
-.hljs-name,
-.hljs-quote,
-.hljs-selector-tag,
-.hljs-selector-pseudo {
-  /* prettylights-syntax-entity-tag */
-  color: #7ee787
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
 }
-.hljs-subst {
-  /* prettylights-syntax-storage-modifier-import */
-  color: #c9d1d9
+
+.token.punctuation {
+	color: #999;
 }
-.hljs-section {
-  /* prettylights-syntax-markup-heading */
-  color: #1f6feb;
-  font-weight: bold
+
+.token.namespace {
+	opacity: .7;
 }
-.hljs-bullet {
-  /* prettylights-syntax-markup-list */
-  color: #f2cc60
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
 }
-.hljs-emphasis {
-  /* prettylights-syntax-markup-italic */
-  color: #c9d1d9;
-  font-style: italic
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
 }
-.hljs-strong {
-  /* prettylights-syntax-markup-bold */
-  color: #c9d1d9;
-  font-weight: bold
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #9a6e3a;
+	/* This background color was intended by the author of this theme. */
+	background: hsla(0, 0%, 100%, .5);
 }
-.hljs-addition {
-  /* prettylights-syntax-markup-inserted */
-  color: #aff5b4;
-  background-color: #033a16
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
 }
-.hljs-deletion {
-  /* prettylights-syntax-markup-deleted */
-  color: #ffdcd7;
-  background-color: #67060c
+
+.token.function,
+.token.class-name {
+	color: #DD4A68;
 }
-.hljs-char.escape_,
-.hljs-link,
-.hljs-params,
-.hljs-property,
-.hljs-punctuation,
-.hljs-tag {
-  /* purposely ignored */
-  
+
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
 }
+
+.token.important,
+.token.bold {
+	font-weight: bold;
 }
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+
+pre[class*="language-"].line-numbers {
+	position: relative;
+	padding-left: 3.8em;
+	counter-reset: linenumber;
+}
+
+pre[class*="language-"].line-numbers > code {
+	position: relative;
+	white-space: inherit;
+}
+
+.line-numbers .line-numbers-rows {
+	position: absolute;
+	pointer-events: none;
+	top: 0;
+	font-size: 100%;
+	left: -3.8em;
+	width: 3em; /* works for line-numbers below 1000 lines */
+	letter-spacing: -1px;
+	border-right: 1px solid #999;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+}
+
+	.line-numbers-rows > span {
+		display: block;
+		counter-increment: linenumber;
+	}
+
+		.line-numbers-rows > span:before {
+			content: counter(linenumber);
+			color: #999;
+			display: block;
+			padding-right: 0.8em;
+			text-align: right;
+		}
+
 .highlight:hover .copy-btn,
 .code-container:hover .copy-btn {
   opacity: 1;
@@ -870,7 +815,7 @@ pre code {
   width: 100%;
 }
 .post-body .label {
-  color: #555;
+  color: #394134;
   padding: 0 2px;
 }
 .post-body .label.default {
@@ -1025,7 +970,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.default {
-    background: #3c3c3c;
+    background: #2e313b;
   }
 }
 .post-body .note.default h2,
@@ -1047,7 +992,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.primary {
-    background: #3c3b3c;
+    background: #2e313c;
   }
 }
 .post-body .note.primary h2,
@@ -1069,7 +1014,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.info {
-    background: #3b3c3c;
+    background: #2d313c;
   }
 }
 .post-body .note.info h2,
@@ -1091,7 +1036,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.success {
-    background: #3b3c3b;
+    background: #2d313b;
   }
 }
 .post-body .note.success h2,
@@ -1113,7 +1058,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.warning {
-    background: #3d3c3b;
+    background: #2e313a;
   }
 }
 .post-body .note.warning h2,
@@ -1135,7 +1080,7 @@ pre code {
 }
 @media (prefers-color-scheme: dark) {
   .post-body .note.danger {
-    background: #3d3c3c;
+    background: #2e313b;
   }
 }
 .post-body .note.danger h2,
@@ -1522,7 +1467,7 @@ ruby > :first-child {
   font-weight: bold;
   line-height: 1;
   margin-left: 0.35em;
-  padding: 2px 5px;
+  padding: 2px 6px;
   text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
 }
 .use-motion .menu-item {
@@ -1567,7 +1512,7 @@ ruby > :first-child {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #1a93ab;
+    background: #fff62e;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1933,7 +1878,7 @@ ruby > :first-child {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 90%;
 }
 @media (max-width: 767px) {
   .footer-inner {
@@ -1942,12 +1887,12 @@ ruby > :first-child {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 1160px;
+    width: 72%;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 73%;
+    width: 55%;
   }
 }
 .use-motion .footer {
@@ -2107,7 +2052,7 @@ ruby > :first-child {
   font-weight: bold;
   line-height: 1;
   margin-left: 0.35em;
-  padding: 2px 5px;
+  padding: 2px 6px;
   text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
 }
 .posts-collapse .post-content .collection-year::before {
@@ -2539,7 +2484,7 @@ ruby > :first-child {
   font-weight: bold;
   line-height: 1;
   margin-left: 0.35em;
-  padding: 2px 5px;
+  padding: 2px 6px;
   text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
 }
 .category-all-page .category-list-child {
@@ -2883,7 +2828,7 @@ header.header {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 90%;
 }
 @media (max-width: 767px) {
   .main {
@@ -2892,12 +2837,12 @@ header.header {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 1160px;
+    width: 72%;
   }
 }
 @media (min-width: 1600px) {
   .main {
-    width: 73%;
+    width: 55%;
   }
 }
 @media (max-width: 991px) {
@@ -3043,7 +2988,7 @@ header.header {
   .sidebar-inner {
     background: var(--content-bg-color);
     border-radius: initial;
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     box-sizing: border-box;
     color: var(--text-color);
     margin-top: 12px;
@@ -3108,7 +3053,7 @@ header.header {
 }
 .main-inner .post-block:not(:first-child):not(:first-child) {
   border-radius: initial;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   margin-top: 12px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -3126,7 +3071,7 @@ header.header {
 .main-inner .comment-position .comments,
 .main-inner .pagination {
   border-radius: initial;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   margin-top: 12px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -3190,4 +3135,596 @@ header.header {
   .comments {
     padding: 10px 12px;
   }
+}
+/* 引入 prismjs 代码高亮样式 */
+/* 测试中，待删除
+@media (prefers-color-scheme: light) {
+  @import "prism.css"
+}
+@media (prefers-color-scheme: dark) {
+  @import "prism-okaidia.css"
+}
+*/
+/**********************************************************/
+/************************* 全站背景 ************************/
+/**********************************************************/
+/* 隐藏顶部线条 */
+.headband {
+  display: none;
+}
+/* 顶部边距 */
+.header,
+.main-inner {
+  margin-top: 10px;
+}
+@media (max-width: 767px) {
+  .header,
+  .main-inner {
+    margin-top: 0;
+  }
+}
+/* 背景图片 */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: none;
+  }
+}
+/* 选中字符颜色 */
+::selection {
+  background: highlight;
+  color: highlighttext;
+}
+.menu-item {
+  font-weight: bold;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+/**********************************************************/
+/************************ 侧边栏 ***************************/
+/**********************************************************/
+/* 侧边圆角 */
+header.header,
+.sidebar-inner {
+  border-radius: 8px;
+}
+.site-brand-container {
+  border-radius: 8px 8px 0 0;
+}
+@media (max-width: 767px) {
+  .site-brand-container {
+    border-radius: 0 0 8px 8px;
+  }
+}
+/* 站点标题背景 */
+/* .site-brand-container {
+  background: url($site-brand-bg-url);
+  background-position: 70% 20%;
+  background-size: cover;
+} */
+/* 站点标题文字 */
+.site-title {
+  letter-spacing: 10px;
+  padding-left: 10px;
+}
+/* 站点副标题 */
+.site-subtitle {
+  color: var(--brand-color);
+  font-size: 0.85em;
+}
+/* 站点描述介绍 */
+.site-description {
+  color: var(--blockquote-color);
+  font-family: $font-family-quote;
+  font-size: 0.9em;
+}
+/* 头像图片大小 */
+.site-author-image {
+  max-width: 100px;
+}
+/* 昵称在移动端侧边栏的颜色 */
+@media (max-width: 991px) {
+  .site-author-name {
+    color: #d9dad3;
+  }
+}
+/* 导航菜单文字 */
+.menu-item a {
+  font-size: 0.9em;
+}
+/* 二级导航菜单 */
+.sub-menu {
+  border-radius: 8px !important;
+}
+/* 社交媒体图标 */
+.links-of-author-item a {
+  font-size: 1.05em;
+}
+/* 移动端侧边栏 */
+@media (max-width: 991px) {
+  .sidebar {
+    background: #181c27;
+  }
+}
+/* 移动端侧边栏按钮 */
+.sidebar-toggle:hover .toggle-line {
+  background: #fff;
+}
+/* 文章目录、二级导航菜单、文章内tab中选中颜色橘黄色的变更 */
+.sidebar-toc-active .sidebar-nav-toc {
+  border-bottom: none;
+  color: var(--text-color);
+  font-weight: bold;
+}
+.sidebar-toc-active .sidebar-nav-toc:hover {
+  color: var(--text-color);
+}
+@media (max-width: 991px) {
+  .sidebar-toc-active .sidebar-nav-toc {
+    color: #d9dad3;
+  }
+}
+.sidebar-nav li.sidebar-nav-overview {
+  display: none;
+}
+.post-toc .nav a {
+  border-bottom: none;
+}
+.post-toc .nav .active > a,
+.post-toc .nav .active-current > a:hover,
+.sub-menu .menu-item-active,
+.sub-menu .menu-item a:hover {
+  border-bottom: none;
+  color: var(--link-hover-color);
+}
+.post-toc .nav a:hover {
+  text-shadow: var(--link-hover-color) 0 0 3px;
+}
+/**********************************************************/
+/************************ 文章 ****************************/
+/**********************************************************/
+/* 文章卡片 */
+.post-block {
+  border-radius: 8px !important;
+}
+/* 文章与页面标题 */
+.posts-expand .post-title {
+  font-size: 1.45em;
+  font-weight: bold;
+}
+@media (max-width: 767px) {
+  .posts-expand .post-title {
+    margin-top: 10px;
+  }
+}
+/* 文章标题 */
+.index .post-title,
+.post .post-title {
+  text-align: left;
+  border-left: #3f5973 8px solid;
+  padding-left: 10px;
+}
+/* 文章信息栏 */
+.index .post-meta,
+.post .post-meta {
+  justify-content: left;
+}
+.posts-expand .post-header {
+  margin-bottom: 30px;
+}
+.posts-expand .post-meta-container {
+/* 文字颜色 */
+  color: var(--text-color);
+/* 时间下划线 */
+/* 文章/页面描述 */
+}
+.posts-expand .post-meta-container time {
+  border-bottom: none;
+}
+.posts-expand .post-meta-container .post-description {
+  font-size: 0.95em;
+}
+/* 文章信息项超链接 */
+.post-meta-item a {
+  border-bottom: none;
+}
+/* 段后距 */
+p {
+  margin-bottom: 1em;
+}
+/* 标题颜色 */
+h2,
+h3,
+h4,
+h5 {
+  color: #4051b5;
+}
+@media (prefers-color-scheme: dark) {
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: #5fb1dd;
+  }
+}
+/* 字号大小 */
+@media (min-width: 1200px) {
+  .post-body {
+    font-size: 1.09em;
+  }
+}
+/* 超链接 */
+/* .post-body a,
+.post-footer a {
+  transition: all .2s;
+  color: var(--link-color);
+  border-bottom-color: var(--link-hover-color);
+
+  &:hover {
+    color: var(--link-hover-color);
+    border-bottom-width: 2px;
+  }
+} */
+/* 思源宋体列表打叉修复 */
+li {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+/* 提示卡片图标位置 */
+/* .post-body .note:not(.no-icon)::before {
+  top: .1em;
+} */
+/* 引用字体颜色 */
+blockquote {
+  color: var(--text-color);
+  background: #f4f5f7;
+  border-left: 0.25em solid #e3e6eb;
+  padding: 0 2em;
+}
+blockquote.blockquote-center {
+  background: none;
+}
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    background: #2f3947;
+    border-left: 0.25em solid #435266;
+  }
+}
+/* 文末标签 */
+.post-tags {
+  text-align: left;
+}
+.post-tags a {
+  border-bottom: none;
+  font-size: 0.875em;
+}
+/* 普通链接卡片 */
+/* .post-body .link-grid .link-grid-container {
+  border: 2px solid #ddd;
+  border-radius: $myradius;
+  box-shadow: .2em .2em .5em rgba(0, 0, 0, .2);
+
+  &:hover {
+    animation: none;
+  }
+
+  &:active {
+    box-shadow: none;
+    transform: none;
+  }
+}
+
+.post-body .link-grid .link-grid-container p {
+
+  &:first-of-type {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: var(--link-hover-color);
+  }
+
+  &:last-of-type {
+    font-size: .85em;
+  }
+} */
+/* 标签选择卡片 */
+/* .post-body .tabs ul.nav-tabs li.tab a {
+  font-weight: bold;
+}
+
+.post-body .tabs ul.nav-tabs li.tab.active {
+  border-top-color: var(--link-hover-color);
+
+  @media (max-width: 413px) {
+    border-top-color: #ddd;
+    border-left-color: var(--link-hover-color);
+  }
+
+  & a {
+    color: var(--link-hover-color);
+  }
+} */
+/**********************************************************/
+/********************* 图片与相册 **************************/
+/**********************************************************/
+/* 图片阴影圆角 */
+/* 图片标题 */
+figcaption {
+  margin: -10px auto 1em;
+  color: #999;
+  font-size: 0.875em;
+  line-height: 1;
+  text-align: center;
+}
+/* 组图标题 */
+.group-picture {
+  margin-bottom: 5px;
+}
+.group-picture-column .image-caption {
+  margin-top: 10px;
+}
+.group-picture .group-picture-row {
+  display: inline-flex;
+}
+/* 相册 */
+.album {
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+.album .card {
+  overflow: hidden;
+  transition: 0.3s ease-in-out;
+}
+/**********************************************************/
+/************************ 代码 ****************************/
+/**********************************************************/
+/* 行内代码 */
+code {
+  background: #e6e8ee !important;
+}
+@media (prefers-color-scheme: dark) {
+  code {
+    background: #3e4b5e !important;
+  }
+}
+pre[class*=language-] {
+  background: #f4f5f7;
+  font-size: 0.85em;
+}
+@media (prefers-color-scheme: dark) {
+  pre[class*=language-] {
+    background: #3c495b;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+}
+pre[class*=language-]:before {
+  color: var(--t-l);
+  content: attr(data-language);
+  font-size: 1.9em;
+  font-weight: 700;
+  opacity: 0.15;
+  position: absolute;
+  right: 0.3rem;
+  top: 0.1em;
+  text-transform: uppercase;
+}
+code[class*=language-] {
+  background: none !important;
+  white-space: break-spaces;
+}
+code[class*=language-],
+pre[class*=language-] {
+  text-shadow: none;
+}
+.language-css .token.string,
+.style .token.string,
+.token.entity,
+.token.operator,
+.token.url {
+  background: none;
+}
+.token.deleted {
+  background: #fdd;
+}
+.token.inserted {
+  background: #dfd;
+}
+@media (prefers-color-scheme: dark) {
+  .token.deleted {
+    background: #654545;
+  }
+  .token.inserted {
+    background: #466548;
+  }
+}
+/**********************************************************/
+/************************ 表格 ****************************/
+/**********************************************************/
+/* 表格边框 */
+td,
+th {
+  border-color: #e3e6eb;
+}
+@media (prefers-color-scheme: dark) {
+  td,
+  th {
+    border-color: #3e4b5e !important;
+  }
+}
+/* 表格背景 */
+tbody tr:hover {
+  background: var(--content-bg-color);
+  box-shadow: var(--link-hover-color) 0 0 8px 0px inset;
+}
+tbody tr:nth-of-type(odd):hover {
+  background: var(--table-row-odd-bg-color);
+}
+/**********************************************************/
+/************************ 按钮 ****************************/
+/**********************************************************/
+/* 默认按钮 */
+.btn {
+  color: #fff !important;
+  border: none;
+  border-radius: 8px;
+  background: #3f5973;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.btn:hover {
+  background: #4051b5;
+  -webkit-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  -moz-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+/* 返回最上按钮 */
+.back-to-top {
+  background: #3f5973;
+  opacity: 0.8;
+  font-weight: bold;
+  font-size: 1em;
+  border-radius: 1em;
+}
+.back-to-top:hover {
+  color: #fff;
+}
+/************************************************************/
+/************************ 页码页脚 ***************************/
+/************************************************************/
+/* 删去页码栏外框 */
+.pagination {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+/* 页码按钮 */
+.pagination .prev,
+.pagination .next,
+.pagination .page-number {
+  border: none;
+  border-radius: 8px;
+}
+.pagination .prev:hover,
+.pagination .next:hover,
+.pagination .page-number:hover {
+  color: #fff;
+  background: #4051b5;
+  -webkit-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  -moz-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+/* 当前页码 */
+.pagination .page-number.current {
+  background: #3f5973;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+@media (prefers-color-scheme: dark) {
+  .pagination .page-number.current {
+    color: #fff;
+  }
+}
+/* 页脚 */
+.footer {
+  margin-top: 50px;
+  padding-bottom: 40px;
+  color: var(--blockquote-color);
+}
+.footer a {
+  color: var(--blockquote-color);
+  border-bottom: none;
+}
+.footer a:hover {
+  color: var(--text-color);
+}
+/************************************************************/
+/************************ 分类标签 ***************************/
+/************************************************************/
+/* 标签云 */
+.tag-cloud a {
+  padding: 2px 10px;
+  margin: 8px;
+  background: #f5f5f5;
+  border-bottom: none;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.tag-cloud a:hover {
+  -webkit-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  -moz-box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background: #4051b5 !important;
+}
+.tag-cloud a:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+  .tag-cloud a {
+    color: var(--text-color) !important;
+    background: #3f5973;
+  }
+}
+/**********************************************************/
+/*********************** 特殊排版  *************************/
+/**********************************************************/
+/* 分割线 `<hr>` 或 `***` 或 `---` */
+hr {
+  background-image: none;
+  height: 2em;
+  border: none;
+  margin: 1em 0 1em;
+  text-align: center;
+}
+hr::after {
+  content: "···";
+  letter-spacing: 2em;
+  padding-left: 2em;
+  font-weight: bold;
+}
+/* 次级目录索引不显示 */
+.breadcrumb {
+  display: none;
+}
+.post-title a:hover {
+/* font-weight: bold; */
+  text-shadow: var(--link-hover-color) 0 0 3px;
+}
+.posts-collapse .post-content .post-header:hover::before {
+  background: #4052b5;
+/* background: var(--link-hover-color); */
+}
+.posts-collapse .post-content .post-title a:hover {
+  border-bottom: 0;
+  color: var(--link-hover-color);
+}
+.post-block {
+/* background-color: #1E1E1E; */
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 12px rgba(0,0,0,0.3);
+  transition: background 0.5s ease-out, box-shadow 0.5s ease-out;
+}
+.post-block:hover {
+  background-color: #1a2235;
+  box-shadow: 0 0 18px rgba(0,0,0,0.5);
+}
+.collection-year-count {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }

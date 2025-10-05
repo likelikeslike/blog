@@ -9,8 +9,8 @@
 <table>
 <thead>
 <tr>
-<th>对别人的 (尊敬)</th>
 <th>对自己的</th>
+<th>对别人的 (尊敬)</th>
 <th>中文</th>
 </tr>
 </thead>
@@ -92,6 +92,9 @@
 </ul>
 </div>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
@@ -156,8 +159,16 @@
 <td>太郎</td>
 <td></td>
 </tr>
+<tr>
+<td><ruby><rb>陳</rb><rt>ちん</rt></ruby></td>
+<td>陈</td>
+<td></td>
+</tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
@@ -238,8 +249,106 @@
 <td>多少钱</td>
 <td></td>
 </tr>
+<tr>
+<td><ruby><rb>おはよう</rb></ruby></td>
+<td>早上好</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>疲</rb><rt>つか</rt></ruby><ruby><rb>れ</rb></ruby><ruby><rb>様</rb><rt>さま</rt></ruby><ruby><rb>でした</rb></ruby></td>
+<td>辛苦了, 够累的</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>先</rb><rt>さき</rt></ruby><ruby><rb>に</rb></ruby><ruby><rb>失</rb><rt>しつ</rt></ruby><ruby><rb>礼</rb><rt>れい</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td>我先走了</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>変</rb><rt>へん</rt></ruby><ruby><rb>でしね</rb></ruby></td>
+<td>真不容易</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>いらっしゃいませ</rb></ruby></td>
+<td>欢迎光临</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>失</rb><rt>しつ</rt></ruby><ruby><rb>礼</rb><rt>れい</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td>告辞了</td>
+<td>双汉字 + する, 准备走了说</td>
+</tr>
+<tr>
+<td><ruby><rb>失</rb><rt>しつ</rt></ruby><ruby><rb>礼</rb><rt>れい</rt></ruby><ruby><rb>しました</rb></ruby></td>
+<td>打扰了</td>
+<td>已经要走了说</td>
+</tr>
+<tr>
+<td><ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>って</rb></ruby><ruby><rb>参</rb><rt>まい</rt></ruby><ruby><rb>ります</rb></ruby></td>
+<td>我走了</td>
+<td>原形: <ruby><rb>参</rb><rt>まい</rt></ruby><ruby><rb>る</rb></ruby>, 敬语</td>
+</tr>
+<tr>
+<td><ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>って</rb></ruby><ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>ます</rb></ruby></td>
+<td>我走了</td>
+<td>口语</td>
+</tr>
+<tr>
+<td><ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>ってらっしゃい</rb></ruby></td>
+<td>你走好</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>ただいま</rb></ruby></td>
+<td>我回来了</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>帰</rb><rt>かえ</rt></ruby><ruby><rb>りなさい</rb></ruby></td>
+<td>你回来了</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>かしこまりました</rb></ruby></td>
+<td>我知道了</td>
+<td>敬语</td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td>打扰了</td>
+<td><ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby>: 妨碍</td>
+</tr>
+<tr>
+<td><ruby><rb>ください</rb></ruby></td>
+<td>给我</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>どうですか</rb></ruby></td>
+<td>怎样</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>願</rb><rt>ねが</rt></ruby><ruby><rb>いします</rb></ruby></td>
+<td>拜托了</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>分</rb><rt>わ</rt></ruby><ruby><rb>かりました</rb></ruby></td>
+<td>明白了</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>良</rb><rt>よ</rt></ruby><ruby><rb>かったです</rb></ruby></td>
+<td>太好了</td>
+<td></td>
+</tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
@@ -293,8 +402,51 @@
 <td>大阪</td>
 <td></td>
 </tr>
+<tr>
+<td><ruby><rb>神戸</rb><rt>こうべ</rt></ruby></td>
+<td>神户</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>広</rb><rt>ひろ</rt></ruby><ruby><rb>島</rb><rt>しま</rt></ruby></td>
+<td>广岛</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>京</rb><rt>きょう</rt></ruby><ruby><rb>都</rb><rt>と</rt></ruby></td>
+<td>京都</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>北</rb><rt>ほっ</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby></td>
+<td>北海道</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>箱</rb><rt>はこ</rt></ruby><ruby><rb>根</rb><rt>ね</rt></ruby></td>
+<td>箱根</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>銀</rb><rt>ぎん</rt></ruby><ruby><rb>座</rb><rt>ざ</rt></ruby></td>
+<td>银座</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>渋</rb><rt>しぶ</rt></ruby><ruby><rb>谷</rb><rt>や</rt></ruby></td>
+<td>涉谷</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>新</rb><rt>しん</rt></ruby><ruby><rb>宿</rb><rt>じゅく</rt></ruby></td>
+<td>新宿</td>
+<td></td>
+</tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
@@ -330,7 +482,145 @@
 <td><ruby><rb>何</rb><rt>なん</rt></ruby><ruby><rb>〜</rb></ruby></td>
 </tr>
 </tbody></table>
+<h2 id="一天中的时间"><a href="#一天中的时间" class="headerlink" title="一天中的时间"></a>一天中的时间</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>夜</rb><rt>よる</rt></ruby></td>
+<td>晚上</td>
+<td>深夜</td>
+</tr>
+<tr>
+<td><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td>晚上</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td>早上</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>夜</rb><rt>よ</rt></ruby><ruby><rb>中</rb><rt>なか</rt></ruby></td>
+<td>半夜</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>午</rb><rt>ご</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>中</rb><rt>ちゅう</rt></ruby></td>
+<td>上午</td>
+<td><ruby><rb>中</rb><rt>じゅう</rt></ruby> 指整个范围, <ruby><rb>中</rb><rt>ちゅう</rt></ruby> 指其中一段范围</td>
+</tr>
+<tr>
+<td><ruby><rb>夕</rb><rt>ゆう</rt></ruby><ruby><rb>方</rb><rt>がた</rt></ruby></td>
+<td>傍晚</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>昼</rb><rt>ひる</rt></ruby></td>
+<td>正午</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><table>
+<thead>
+<tr>
+<th>～</th>
+<th>前～</th>
+<th>昨～</th>
+<th>今～</th>
+<th>明～</th>
+<th>后～</th>
+<th>每～</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>天</td>
+<td><ruby><rb>おととい</rb></ruby></td>
+<td><ruby><rb>昨日</rb><rt>きのう</rt></ruby></td>
+<td><ruby><rb>今日</rb><rt>きょう</rt></ruby></td>
+<td><ruby><rb>明日</rb><rt>あした</rt></ruby></td>
+<td><ruby><rb>あさって</rb></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby></td>
+</tr>
+<tr>
+<td>早晨</td>
+<td><ruby><rb>おとといの</rb></ruby><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td><ruby><rb>昨日</rb><rt>きのう</rt></ruby><ruby><rb>の</rb></ruby><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td><ruby><rb>今</rb><rt>け</rt></ruby><ruby><rb>朝</rb><rt>さ</rt></ruby></td>
+<td><ruby><rb>明日</rb><rt>あした</rt></ruby><ruby><rb>の</rb></ruby><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td><ruby><rb>あさっての</rb></ruby><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+</tr>
+<tr>
+<td>晚上</td>
+<td><ruby><rb>おとといの</rb></ruby><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td><ruby><rb>ゆうべ</rb></ruby></td>
+<td><ruby><rb>今</rb><rt>こん</rt></ruby><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td><ruby><rb>明日</rb><rt>あした</rt></ruby><ruby><rb>の</rb></ruby><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td><ruby><rb>あさっての</rb></ruby><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+</tr>
+<tr>
+<td>周</td>
+<td><ruby><rb>先々</rb><rt>せんせん</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+<td><ruby><rb>先</rb><rt>せん</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+<td><ruby><rb>今</rb><rt>こん</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+<td><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+<td><ruby><rb>再</rb><rt>さ</rt></ruby><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>週</rb><rt>しゅう</rt></ruby></td>
+</tr>
+<tr>
+<td>月</td>
+<td><ruby><rb>先々</rb><rt>せんせん</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby></td>
+<td><ruby><rb>先</rb><rt>せん</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby></td>
+<td><ruby><rb>今</rb><rt>こん</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby></td>
+<td><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby></td>
+<td><ruby><rb>再</rb><rt>さ</rt></ruby><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>月</rb><rt>つき</rt></ruby></td>
+</tr>
+<tr>
+<td>年</td>
+<td><ruby><rb>おととし</rb></ruby></td>
+<td><ruby><rb>去</rb><rt>きょ</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby></td>
+<td><ruby><rb>今年</rb><rt>ことし</rt></ruby></td>
+<td><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby></td>
+<td><ruby><rb>再</rb><rt>さ</rt></ruby><ruby><rb>来</rb><rt>らい</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby></td>
+<td><ruby><rb>毎</rb><rt>まい</rt></ruby><ruby><rb>年</rb><rt>とし</rt></ruby></td>
+</tr>
+</tbody></table>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+        <tag>Language</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>片假名单词</title>
+    <url>/2025/10/japanese-words-katakana/</url>
+    <content><![CDATA[<p>学习片假名单词</p>
+<span id="more"></span>
+
+<table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+</table>
+]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
@@ -819,10 +1109,527 @@
 </tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
         <tag>Words</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日语单词 (第二单元)</title>
+    <url>/2025/10/japanese-words-unit-two/</url>
+    <content><![CDATA[<p>学习日语单词 (第二单元)</p>
+<span id="more"></span>
+
+<h2 id="第5课-森さんは-7時に-起きます"><a href="#第5课-森さんは-7時に-起きます" class="headerlink" title="第5课 森さんは 7時に 起きます"></a>第5课 森さんは 7時に 起きます</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>今</rb><rt>いま</rt></ruby></td>
+<td>现在</td>
+<td><ruby><rb>今</rb><rt>いま</rt></ruby> 重读第一个, <ruby><rb>居</rb><rt>い</rt></ruby><ruby><rb>間</rb><rt>ま</rt></ruby> 重读第二个</td>
+</tr>
+<tr>
+<td><ruby><rb>夜</rb><rt>よる</rt></ruby></td>
+<td>晚上</td>
+<td>深夜</td>
+</tr>
+<tr>
+<td><ruby><rb>晩</rb><rt>ばん</rt></ruby></td>
+<td>晚上</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>朝</rb><rt>あさ</rt></ruby></td>
+<td>早上</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>学</rb><rt>がっ</rt></ruby><ruby><rb>校</rb><rt>こう</rt></ruby></td>
+<td>学校</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>試</rb><rt>し</rt></ruby><ruby><rb>験</rb><rt>けん</rt></ruby></td>
+<td>考试</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>仕</rb><rt>し</rt></ruby><ruby><rb>事</rb><rt>ごと</rt></ruby></td>
+<td>工作</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>遅</rb><rt>ち</rt></ruby><ruby><rb>刻</rb><rt>こく</rt></ruby></td>
+<td>迟到</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>休</rb><rt>やう</rt></ruby><ruby><rb>み</rb></ruby></td>
+<td>休息</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>出</rb><rt>しゅっ</rt></ruby><ruby><rb>張</rb><rt>ちょう</rt></ruby></td>
+<td>出差</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>旅</rb><rt>りょ</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby></td>
+<td>旅行</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>研</rb><rt>けん</rt></ruby><ruby><rb>修</rb><rt>しゅう</rt></ruby></td>
+<td>进修</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>展</rb><rt>てん</rt></ruby><ruby><rb>覧</rb><rt>らん</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></td>
+<td>展览会</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>歓</rb><rt>かん</rt></ruby><ruby><rb>迎</rb><rt>げい</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></td>
+<td>欢迎会</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>宅</rb><rt>たく</rt></ruby></td>
+<td>家</td>
+<td>别人家</td>
+</tr>
+<tr>
+<td><ruby><rb>いつ</rb></ruby></td>
+<td>什么时候</td>
+<td>不是确切时间</td>
+</tr>
+<tr>
+<td><ruby><rb>いつも</rb></ruby></td>
+<td>经常</td>
+<td>疑问词 + も: 疑问词全部范围, いつも (什么时候都)</td>
+</tr>
+</tbody></table>
+<h2 id="第6课-吉田さんは来月中国へ行きます"><a href="#第6课-吉田さんは来月中国へ行きます" class="headerlink" title="第6课 吉田さんは来月中国へ行きます"></a>第6课 吉田さんは来月中国へ行きます</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>夜</rb><rt>よ</rt></ruby><ruby><rb>中</rb><rt>なか</rt></ruby></td>
+<td>半夜</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>誕</rb><rt>たん</rt></ruby><ruby><rb>生</rb><rt>じょう</rt></ruby><ruby><rb>日</rb><rt>び</rt></ruby></td>
+<td>生日</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>子</rb><rt>こ</rt></ruby><ruby><rb>供</rb><rt>ども</rt></ruby><ruby><rb>の</rb></ruby><ruby><rb>日</rb><rt>ひ</rt></ruby></td>
+<td>儿童节</td>
+<td><ruby><rb>〜の</rb></ruby><ruby><rb>日</rb><rt>ひ</rt></ruby> 〜节</td>
+</tr>
+<tr>
+<td><ruby><rb>夏</rb><rt>なつ</rt></ruby><ruby><rb>休</rb><rt>やす</rt></ruby><ruby><rb>み</rb></ruby></td>
+<td>暑假</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>交</rb><rt>こう</rt></ruby><ruby><rb>通</rb><rt>つう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>関</rb><rt>かん</rt></ruby></td>
+<td>交通工具</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>新</rb><rt>しん</rt></ruby><ruby><rb>幹</rb><rt>かん</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby></td>
+<td>新干线</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>飛</rb><rt>ひ</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby></td>
+<td>飞机</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>車</rb><rt>しゃ</rt></ruby></td>
+<td>电车</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>美</rb><rt>び</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>館</rb><rt>かん</rt></ruby></td>
+<td>美术馆</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>うち</rb></ruby></td>
+<td>家</td>
+<td>概念上的家; <ruby><rb>家</rb><rt>いえ</rt></ruby> 强调物理意义上的房子; <ruby><rb>居</rb><rt>い</rt></ruby><ruby><rb>間</rb><rt>ま</rt></ruby> 主要指客厅</td>
+</tr>
+<tr>
+<td><ruby><rb>友</rb><rt>とも</rt></ruby><ruby><rb>達</rb><rt>だち</rt></ruby></td>
+<td>朋友</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>確</rb><rt>だし</rt></ruby><ruby><rb>か</rb></ruby></td>
+<td>大概</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>まっすぐ</rb></ruby></td>
+<td>直接, 笔直</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>緒</rb><rt>しょ</rt></ruby><ruby><rb>に</rb></ruby></td>
+<td>一起</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>歩</rb><rt>ある</rt></ruby><ruby><rb>いて</rb></ruby></td>
+<td>步行</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="第7课-李さんは-毎日-コーヒーを-飲みます"><a href="#第7课-李さんは-毎日-コーヒーを-飲みます" class="headerlink" title="第7课 李さんは 毎日 コーヒーを 飲みます"></a>第7课 李さんは 毎日 コーヒーを 飲みます</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>茶</rb><rt>ちゃ</rt></ruby></td>
+<td>茶</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>粥</rb><rt>かゆ</rt></ruby></td>
+<td>粥</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>昼</rb><rt>ひる</rt></ruby><ruby><rb>ご</rb></ruby><ruby><rb>飯</rb><rt>はん</rt></ruby></td>
+<td>午饭</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>弁</rb><rt>べん</rt></ruby><ruby><rb>当</rb><rt>とう</rt></ruby></td>
+<td>盒饭</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>蕎</rb><rt>そ</rt></ruby><ruby><rb>麦</rb><rt>ば</rt></ruby></td>
+<td>荞麦面</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>うどん</rb></ruby></td>
+<td>面条</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>親</rb><rt>おや</rt></ruby><ruby><rb>子</rb><rt>こ</rt></ruby><ruby><rb>丼</rb><rt>どん</rt></ruby></td>
+<td>鸡肉鸡蛋盖浇饭</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>卵</rb><rt>たまご</rt></ruby></td>
+<td>鸡蛋</td>
+<td><ruby><rb>玉</rb><rt>たま</rt></ruby><ruby><rb>子</rb><rt>ご</rt></ruby> 吃的蛋</td>
+</tr>
+<tr>
+<td><ruby><rb>蕎</rb><rt>そ</rt></ruby><ruby><rb>麦</rb><rt>ば</rt></ruby><ruby><rb>屋</rb><rt>や</rt></ruby></td>
+<td>荞麦面店</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>野</rb><rt>や</rt></ruby><ruby><rb>球</rb><rt>きゅう</rt></ruby></td>
+<td>棒球</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>申</rb><rt>もうし</rt></ruby><ruby><rb>込</rb><rt>こみ</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby></td>
+<td>申请书</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>手</rb><rt>て</rt></ruby><ruby><rb>紙</rb><rt>がみ</rt></ruby></td>
+<td>信</td>
+<td><ruby><rb>紙</rb><rt>かみ</rt></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>音</rb><rt>おん</rt></ruby><ruby><rb>楽</rb><rt>がく</rt></ruby></td>
+<td>音乐</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>映</rb><rt>えい</rt></ruby><ruby><rb>画</rb><rt>が</rt></ruby></td>
+<td>电影</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>物</rb><rt>ぶつ</rt></ruby><ruby><rb>園</rb><rt>えん</rt></ruby></td>
+<td>动物园</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>これから</rb></ruby></td>
+<td>从现在起</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>じゃあ</rb></ruby></td>
+<td>那么</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>では</rb></ruby></td>
+<td>那么</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="第8课-李さんは日本語で手紙を書きます"><a href="#第8课-李さんは日本語で手紙を書きます" class="headerlink" title="第8课 李さんは日本語で手紙を書きます"></a>第8课 李さんは日本語で手紙を書きます</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>念</rb><rt>ねん</rt></ruby><ruby><rb>品</rb><rt>ひん</rt></ruby></td>
+<td>纪念品</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>写</rb><rt>しゃ</rt></ruby><ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>集</rb><rt>しゅう</rt></ruby></td>
+<td>影集</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>花</rb><rt>はな</rt></ruby></td>
+<td>花</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>お</rb></ruby><ruby><rb>金</rb><rt>かね</rt></ruby></td>
+<td>钱</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>宿</rb><rt>しゅく</rt></ruby><ruby><rb>題</rb><rt>だい</rt></ruby></td>
+<td>作业</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>航</rb><rt>こう</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>便</rb><rt>びん</rt></ruby></td>
+<td>航空邮件</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>速</rb><rt>そく</rt></ruby><ruby><rb>達</rb><rt>たつ</rt></ruby></td>
+<td>快件</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>話</rb><rt>わ</rt></ruby><ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>号</rb><rt>ごう</rt></ruby></td>
+<td>电话号码</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>住</rb><rt>じゅう</rt></ruby><ruby><rb>所</rb><rt>しょ</rt></ruby></td>
+<td>住址</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>名</rb><rt>な</rt></ruby><ruby><rb>前</rb><rt>まえ</rt></ruby></td>
+<td>名字</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>件</rb><rt>けん</rt></ruby></td>
+<td>事情</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>紙</rb><rt>かみ</rt></ruby><ruby><rb>飛</rb><rt>ひ</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby></td>
+<td>纸飞机</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>新</rb><rt>しん</rt></ruby><ruby><rb>聞</rb><rt>ぶん</rt></ruby><ruby><rb>紙</rb><rt>し</rt></ruby></td>
+<td>报纸</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>小</rb><rt>こ</rt></ruby><ruby><rb>麦</rb><rt>むぎ</rt></ruby><ruby><rb>粉</rb><rt>こ</rt></ruby></td>
+<td>面粉</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>箸</rb><rt>はし</rt></ruby></td>
+<td>筷子</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>昼</rb><rt>ひる</rt></ruby><ruby><rb>休</rb><rt>やす</rt></ruby><ruby><rb>み</rb></ruby></td>
+<td>午休</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>もう</rb></ruby></td>
+<td>已经</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>さっき</rb></ruby></td>
+<td>刚才</td>
+<td>时间久一点的刚才</td>
+</tr>
+<tr>
+<td><ruby><rb>たったいま</rb></ruby></td>
+<td>刚刚</td>
+<td>很近的刚才</td>
+</tr>
+<tr>
+<td><ruby><rb>もう</rb></ruby><ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby></td>
+<td>再一次</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>前</rb><rt>まえ</rt></ruby><ruby><rb>に</rb></ruby></td>
+<td>以前</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+        <tag>Language</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日语动词</title>
+    <url>/2025/10/japanese-words-verbal/</url>
+    <content><![CDATA[<p>学习日语动词</p>
+<span id="more"></span>
+
+<h2 id="动词分类"><a href="#动词分类" class="headerlink" title="动词分类"></a>动词分类</h2><div class="note info"><p>动词的去ます形: 动词ます形去掉ます, 剩下的不变</p>
+</div>
+
+<h3 id="一类动词"><a href="#一类动词" class="headerlink" title="一类动词"></a>一类动词</h3><p>う段假名结尾的动词: <ruby><rb>う、く、ぐ、す、つ、ぬ、ぶ、む</rb></ruby></p>
+<div class="note info"><p>ます形: 结尾的う段假名 → い段假名 + ます</p>
+</div>
+
+<h3 id="二类动词"><a href="#二类动词" class="headerlink" title="二类动词"></a>二类动词</h3><p>る结尾的动词 (い段&#x2F;え段 + る结尾, 90%为二类动词)</p>
+<div class="note info"><p>ます形: 去掉る + ます</p>
+</div>
+
+<h3 id="三类动词"><a href="#三类动词" class="headerlink" title="三类动词"></a>三类动词</h3><p>只有两个:</p>
+<ul>
+<li><ruby><rb>する</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby></li>
+</ul>
+<div class="note info"><p>ます形:<br><ruby><rb>する</rb></ruby> → <ruby><rb>します</rb></ruby><br><ruby><rb>くる</rb></ruby> → <ruby><rb>きます</rb></ruby></p>
+</div>
+
+<div class="note warning"><p>双汉字名词&#x2F;片假名名词 + する 也是三类动词, 变形方式与 する 一致</p>
+</div>
+
+<h2 id="动词"><a href="#动词" class="headerlink" title="动词"></a>动词</h2><table>
+<thead>
+<tr>
+<th>原型</th>
+<th>中文</th>
+<th>类型</th>
+<th>ます形</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>有</rb><rt>あ</rt></ruby><ruby><rb>る</rb></ruby></td>
+<td>有 (无生命)</td>
+<td>一类</td>
+<td><ruby><rb>有</rb><rt>あ</rt></ruby><ruby><rb>ります</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>居</rb><rt>い</rt></ruby><ruby><rb>る</rb></ruby></td>
+<td>有 (有生命)</td>
+<td>二类</td>
+<td><ruby><rb>居</rb><rt>い</rt></ruby><ruby><rb>ます</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>休</rb><rt>やす</rt></ruby><ruby><rb>む</rb></ruby></td>
+<td>休息</td>
+<td>一类</td>
+<td><ruby><rb>休</rb><rt>や</rt></ruby><ruby><rb>みます</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>働</rb><rt>はたら</rt></ruby><ruby><rb>く</rb></ruby></td>
+<td>工作</td>
+<td>一类</td>
+<td><ruby><rb>働</rb><rt>はたら</rt></ruby><ruby><rb>きます</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>始</rb><rt>はじ</rt></ruby><ruby><rb>まる</rb></ruby></td>
+<td>开始</td>
+<td>一类</td>
+<td><ruby><rb>始</rb><rt>はじ</rt></ruby><ruby><rb>まります</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>終</rb><rt>お</rt></ruby><ruby><rb>わる</rb></ruby></td>
+<td>结束</td>
+<td>一类</td>
+<td><ruby><rb>終</rb><rt>お</rt></ruby><ruby><rb>わります</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>起</rb><rt>お</rt></ruby><ruby><rb>きる</rb></ruby></td>
+<td>起床</td>
+<td>二类</td>
+<td><ruby><rb>起</rb><rt>お</rt></ruby><ruby><rb>きます</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>寝</rb><rt>ね</rt></ruby><ruby><rb>る</rb></ruby></td>
+<td>睡觉</td>
+<td>二类</td>
+<td><ruby><rb>寝</rb><rt>ね</rt></ruby><ruby><rb>ます</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>勉</rb><rt>べん</rt></ruby><ruby><rb>強</rb><rt>きょう</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>学习</td>
+<td>三类</td>
+<td><ruby><rb>勉</rb><rt>べん</rt></ruby><ruby><rb>強</rb><rt>きょう</rt></ruby><ruby><rb>します</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>分</rb><rt>わ</rt></ruby><ruby><rb>かる</rb></ruby></td>
+<td>理解</td>
+<td>一类</td>
+<td><ruby><rb>分</rb><rt>わ</rt></ruby><ruby><rb>かります</rb></ruby></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+        <tag>Language</tag>
+        <tag>Verbal</tag>
       </tags>
   </entry>
   <entry>
@@ -1199,19 +2006,15 @@
 <h4 id="Food-6"><a href="#Food-6" class="headerlink" title="Food"></a>Food</h4><h4 id="Plan-6"><a href="#Plan-6" class="headerlink" title="Plan"></a>Plan</h4><h4 id="Locations-4"><a href="#Locations-4" class="headerlink" title="Locations"></a>Locations</h4><ul>
 <li>Ourbus - New York: <code>Hudson Yards</code></li>
 </ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09:0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg" width="320" height="240" frameborder="0" loading="lazy" allowfullscreen></iframe>
-
+<p><iframe src="%3Ca" width="href&#x3D;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09:0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg&gt;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09%3A0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg&lt;&#x2F;a&gt;" height="320" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 <ul>
 <li>Ourbus - Philadelphia: <code>Philadelphia Mills</code> (这个离市中心很远)</li>
 </ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2453.5290765117575!2d-74.96356332204813!3d40.092840960984454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14cd67762493b:0xe79cec5f7d05ba50!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2ssg!4v1701352456863!5m2!1sen!2ssg" width="320" height="240" frameborder="0" loading="lazy" allowfullscreen></iframe>
-
+<p><iframe src="%3Ca" width="href&#x3D;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d2453.5290765117575!2d-74.96356332204813!3d40.092840960984454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14cd67762493b:0xe79cec5f7d05ba50!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2ssg!4v1701352456863!5m2!1sen!2ssg&gt;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d2453.5290765117575!2d-74.96356332204813!3d40.092840960984454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14cd67762493b%3A0xe79cec5f7d05ba50!2sPhiladelphia%2C%20PA%20!5e0!3m2!1sen!2ssg!4v1701352456863!5m2!1sen!2ssg&lt;&#x2F;a&gt;" height="320" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 <ul>
 <li>Ourbus - Philadelphia: <code>National Constitution Center</code> (这个在市中心)</li>
 </ul>
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2285.879644172853!2d-75.14929656567712!3d39.95612058876088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c886d149ec9f:0x1eae363c7afce46b!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2ssg!4v1701352715353!5m2!1sen!2ssg" width="320" height="240" frameborder="0" loading="lazy" allowfullscreen></iframe>
-
-
+<p> <iframe src="%3Ca" width="href&#x3D;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d2285.879644172853!2d-75.14929656567712!3d39.95612058876088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c886d149ec9f:0x1eae363c7afce46b!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2ssg!4v1701352715353!5m2!1sen!2ssg&gt;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d2285.879644172853!2d-75.14929656567712!3d39.95612058876088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c886d149ec9f%3A0x1eae363c7afce46b!2sPhiladelphia%2C%20PA%20!5e0!3m2!1sen!2ssg!4v1701352715353!5m2!1sen!2ssg&lt;&#x2F;a&gt;" height="320" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 <h3 id="12-29-Philadelphia-New-York"><a href="#12-29-Philadelphia-New-York" class="headerlink" title="12-29 | Philadelphia | New York"></a>12-29 | Philadelphia | New York</h3><p>Philadelphia</p>
 <h4 id="Attractions-3"><a href="#Attractions-3" class="headerlink" title="Attractions"></a>Attractions</h4><table>
 <thead>
@@ -1272,17 +2075,18 @@
 <h4 id="Food-8"><a href="#Food-8" class="headerlink" title="Food"></a>Food</h4><h4 id="Plan-8"><a href="#Plan-8" class="headerlink" title="Plan"></a>Plan</h4><h4 id="Locations-5"><a href="#Locations-5" class="headerlink" title="Locations"></a>Locations</h4><ul>
 <li>Ourbus - Philadelphia: <code>Fashion District Philadelphia</code></li>
 </ul>
- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1529.2670478595487!2d-75.1548!3d39.95181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c629de2089c1:0xcde147d404e0b6f2!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2sus!4v1701353032099!5m2!1sen!2ssg" width="320" height="240" frameborder="0" loading="lazy" allowfullscreen></iframe>
-
+<p> <iframe src="%3Ca" width="href&#x3D;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m14!1m8!1m3!1d1529.2670478595487!2d-75.1548!3d39.95181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c629de2089c1:0xcde147d404e0b6f2!2sPhiladelphia,%20PA%20!5e0!3m2!1sen!2sus!4v1701353032099!5m2!1sen!2ssg&gt;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m14!1m8!1m3!1d1529.2670478595487!2d-75.1548!3d39.95181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c629de2089c1%3A0xcde147d404e0b6f2!2sPhiladelphia%2C%20PA%20!5e0!3m2!1sen!2sus!4v1701353032099!5m2!1sen!2ssg&lt;&#x2F;a&gt;" height="320" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 <ul>
 <li>Ourbus - New York: <code>Hudson Yards</code></li>
 </ul>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09:0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg" width="320" height="240" frameborder="0" loading="lazy" allowfullscreen></iframe>
-
+<p><iframe src="%3Ca" width="href&#x3D;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09:0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg&gt;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;embed?pb&#x3D;!1m18!1m12!1m3!1d1343.1514953319215!2d-74.00233526036743!3d40.756582046488724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2594662f8fb09%3A0x88690ac9933f8a9e!2sOurBus%20NYC!5e0!3m2!1sen!2ssg!4v1701352348161!5m2!1sen!2ssg&lt;&#x2F;a&gt;" height="320" frameborder="0" loading="lazy" allowfullscreen></iframe></p>
 <ul>
 <li>Ourbus - New York: <code>George Washington Bridge Bus Station, Level 3, Slip 2</code> <a href="https://maps.app.goo.gl/Z6FAzqXYvZTh3p1x5">🗺️</a></li>
 </ul>
 ]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
       <tags>
         <tag>Travel</tag>
       </tags>
