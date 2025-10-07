@@ -1512,7 +1512,7 @@ ruby > :first-child {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #0ae0e9;
+    background: #18e4ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3600,4 +3600,7 @@ li:has(.search-result-title:hover)::marker,
 li:has(.search-result:hover)::marker {
   color: #4052b5;
   transition: 0.2s ease-in-out;
+}
+thead.empty {
+  display: none;
 }
