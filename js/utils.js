@@ -76,7 +76,12 @@ NexT.utils = {
     figure.forEach(element => {
       // Skip pre > .mermaid for folding and copy button
       if (element.querySelector('.mermaid')) return;
-      const languageName = [...element.classList].find(cls => cls !== 'highlight');
+      let languageName;
+      if (CONFIG.hljswrap) {
+        languageName = [...element.classList].find(cls => cls !== 'highlight');
+      } else {
+        languageName = [...element.classList].find(cls => cls.startsWith('language'))?.split('-')[1]
+      }
       if (!inited) {
         let span = element.querySelectorAll('.code .line span');
         if (span.length === 0) {
