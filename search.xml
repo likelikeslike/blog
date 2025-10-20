@@ -859,19 +859,6 @@
       </tags>
   </entry>
   <entry>
-    <title>code-test</title>
-    <url>/2025/10/code-test/</url>
-    <content><![CDATA[<span id="more"></span>
-
-<figure class="highlight go"><figcaption><span>test</span></figcaption><table><tr><td class="code"><pre><span class="line">a := <span class="number">15</span></span><br><span class="line">a := <span class="number">15</span></span><br><span class="line">a := <span class="number">15</span></span><br><span class="line">a := <span class="number">15</span></span><br><span class="line">a := <span class="number">15</span></span><br><span class="line">a := <span class="number">15</span></span><br></pre></td></tr></table></figure>
-
-
-<figure class="highlight python"><figcaption><span>test</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">abx</span>():</span><br><span class="line">    foo = <span class="number">1</span></span><br><span class="line">    bar = <span class="number">2</span></span><br><span class="line"></span><br><span class="line">l = [a <span class="keyword">for</span> a <span class="keyword">in</span> array]</span><br></pre></td></tr></table></figure>
-
-<p><code>code snippet</code></p>
-]]></content>
-  </entry>
-  <entry>
     <title>日语时间相关表达</title>
     <url>/2025/10/japanese-time/</url>
     <content><![CDATA[<p>学习日语时间相关表达</p>
