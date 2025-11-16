@@ -1749,6 +1749,12 @@
 <td></td>
 </tr>
 <tr>
+<td><ruby><rb>危</rb><rt>あぶ</rt></ruby><ruby><rb>ない</rb></ruby></td>
+<td>危险</td>
+<td>い形</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>い形</td>
@@ -4685,6 +4691,13 @@
 <td><ruby><rb>登</rb><rt>のぼ</rt></ruby><ruby><rb>って</rb></ruby></td>
 </tr>
 <tr>
+<td><ruby><rb>渡</rb><rt>わた</rt></ruby><ruby><rb>す</rb></ruby></td>
+<td>交给</td>
+<td>一类</td>
+<td><ruby><rb>渡</rb><rt>わた</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>渡</rb><rt>わた</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>一类</td>
@@ -4899,6 +4912,34 @@
 <td><ruby><rb>浴</rb><rt>あ</rt></ruby><ruby><rb>びて</rb></ruby></td>
 </tr>
 <tr>
+<td><ruby><rb>遅</rb><rt>おく</rt></ruby><ruby><rb>れる</rb></ruby></td>
+<td>迟到</td>
+<td>二类</td>
+<td><ruby><rb>遅</rb><rt>おく</rt></ruby><ruby><rb>れます</rb></ruby></td>
+<td><ruby><rb>遅</rb><rt>おく</rt></ruby><ruby><rb>れて</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>考</rb><rt>かんが</rt></ruby><ruby><rb>える</rb></ruby></td>
+<td>考虑</td>
+<td>二类</td>
+<td><ruby><rb>考</rb><rt>かんが</rt></ruby><ruby><rb>えます</rb></ruby></td>
+<td><ruby><rb>考</rb><rt>かんが</rt></ruby><ruby><rb>えて</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>調</rb><rt>しら</rt></ruby><ruby><rb>べる</rb></ruby></td>
+<td>调查</td>
+<td>二类</td>
+<td><ruby><rb>調</rb><rt>しら</rt></ruby><ruby><rb>べます</rb></ruby></td>
+<td><ruby><rb>調</rb><rt>しら</rt></ruby><ruby><rb>べて</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>着</rb><rt>き</rt></ruby><ruby><rb>る</rb></ruby></td>
+<td>穿</td>
+<td>二类</td>
+<td><ruby><rb>着</rb><rt>き</rt></ruby><ruby><rb>ます</rb></ruby></td>
+<td><ruby><rb>着</rb><rt>き</rt></ruby><ruby><rb>て</rb></ruby></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>二类</td>
@@ -5034,6 +5075,41 @@
 <td>三类</td>
 <td><ruby><rb>帰</rb><rt>き</rt></ruby><ruby><rb>国</rb><rt>こく</rt></ruby><ruby><rb>します</rb></ruby></td>
 <td><ruby><rb>帰</rb><rt>き</rt></ruby><ruby><rb>国</rb><rt>こく</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>予</rb><rt>よ</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>预约</td>
+<td>三类</td>
+<td><ruby><rb>予</rb><rt>よ</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>予</rb><rt>よ</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>感</rb><rt>かん</rt></ruby><ruby><rb>謝</rb><rt>しゃ</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>感谢</td>
+<td>三类</td>
+<td><ruby><rb>感</rb><rt>かん</rt></ruby><ruby><rb>謝</rb><rt>しゃ</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>感</rb><rt>かん</rt></ruby><ruby><rb>謝</rb><rt>しゃ</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>運</rb><rt>うん</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>运动</td>
+<td>三类</td>
+<td><ruby><rb>運</rb><rt>うん</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>運</rb><rt>うん</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>洗</rb><rt>せん</rt></ruby><ruby><rb>濯</rb><rt>たく</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>洗涤 (衣服)</td>
+<td>三类</td>
+<td><ruby><rb>洗</rb><rt>せん</rt></ruby><ruby><rb>濯</rb><rt>たく</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>洗</rb><rt>せん</rt></ruby><ruby><rb>濯</rb><rt>たく</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby><ruby><rb>する</rb></ruby></td>
+<td>报告</td>
+<td>三类</td>
+<td><ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby><ruby><rb>します</rb></ruby></td>
+<td><ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby><ruby><rb>して</rb></ruby></td>
 </tr>
 <tr>
 <td></td>
@@ -5508,6 +5584,95 @@
 <td><ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>に</rb></ruby></td>
 <td>特别</td>
 <td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+        <tag>Language</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日语单词 (第六单元)</title>
+    <url>/2025/11/japanese-words-unit-six/</url>
+    <content><![CDATA[<p>学习日语单词 (第六单元)</p>
+<span id="more"></span>
+
+<h2 id="第21课-わたしは-すき焼きを-食べた-ことが-あります"><a href="#第21课-わたしは-すき焼きを-食べた-ことが-あります" class="headerlink" title="第21课 わたしは すき焼きを 食べた ことが あります"></a>第21课 わたしは すき焼きを 食べた ことが あります</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby></td>
+<td>语言</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>連</rb><rt>れん</rt></ruby><ruby><rb>休</rb><rt>きゅう</rt></ruby></td>
+<td>连休</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>終</rb><rt>お</rt></ruby><ruby><rb>わり</rb></ruby></td>
+<td>结束</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>休</rb><rt>きゅう</rt></ruby><ruby><rb>憩</rb><rt>けい</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>間</rb><rt>かん</rt></ruby></td>
+<td>休息时间</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>京</rb><rt>きょう</rt></ruby><ruby><rb>劇</rb><rt>げき</rt></ruby></td>
+<td>京剧</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>切</rb><rt>きっ</rt></ruby><ruby><rb>符</rb><rt>ぷ</rt></ruby></td>
+<td>票</td>
+<td>车票, 船票</td>
+</tr>
+<tr>
+<td><ruby><rb>体</rb><rt>からだ</rt></ruby></td>
+<td>身体</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>震</rb><rt>しん</rt></ruby></td>
+<td>地震</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>泥</rb><rt>どろ</rt></ruby><ruby><rb>棒</rb><rt>ぼう</rt></ruby></td>
+<td>小偷</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>駐</rb><rt>ちゅう</rt></ruby><ruby><rb>車</rb><rt>しゃ</rt></ruby><ruby><rb>場</rb><rt>じょう</rt></ruby></td>
+<td>停车场</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>それとも</rb></ruby></td>
+<td>或者</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>そんなに</rb></ruby></td>
+<td>那么</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>～</rb></ruby><ruby><rb>過</rb><rt>す</rt></ruby><ruby><rb>ぎ</rb></ruby></td>
+<td>超过～限度</td>
+<td>动词去ます形 &#x2F; 形容词去 い&#x2F;な + 過ぎる</td>
 </tr>
 </tbody></table>
 ]]></content>
