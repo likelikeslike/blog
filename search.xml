@@ -634,6 +634,16 @@
 <td></td>
 </tr>
 <tr>
+<td><ruby><rb>清</rb><rt>し</rt></ruby><ruby><rb>水</rb><rt>みず</rt></ruby></td>
+<td>清水</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>太田</rb><rt>おおた</rt></ruby></td>
+<td>太田</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -917,6 +927,16 @@
 <td><ruby><rb>お</rb></ruby><ruby><rb>腹</rb><rt>なか</rt></ruby><ruby><rb>が</rb></ruby><ruby><rb>空</rb><rt>す</rt></ruby><ruby><rb>きます</rb></ruby></td>
 <td>肚子饿</td>
 <td></td>
+</tr>
+<tr>
+<td><ruby><rb>〜</rb></ruby><ruby><rb>以</rb><rt>い</rt></ruby><ruby><rb>外</rb><rt>がい</rt></ruby></td>
+<td>除～以外</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>〜</rb></ruby><ruby><rb>方</rb></ruby></td>
+<td>干～的方法</td>
+<td>动词去ます形 + 方</td>
 </tr>
 <tr>
 <td></td>
@@ -1755,6 +1775,24 @@
 <td></td>
 </tr>
 <tr>
+<td><ruby><rb>嬉</rb><rt>うれ</rt></ruby><ruby><rb>しい</rb></ruby></td>
+<td>高兴</td>
+<td>い形</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>眠</rb><rt>ねむ</rt></ruby><ruby><rb>い</rb></ruby></td>
+<td>困倦</td>
+<td>い形</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>重</rb><rt>おも</rt></ruby><ruby><rb>い</rb></ruby></td>
+<td>重</td>
+<td>い形</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>い形</td>
@@ -1957,6 +1995,12 @@
 <td></td>
 </tr>
 <tr>
+<td><ruby><rb>急</rb><rt>きゅう</rt></ruby></td>
+<td>紧急</td>
+<td>な形</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>な形</td>
@@ -2041,6 +2085,244 @@
 <td>0.1 <ruby><rb>れいてんいち</rb></ruby></td>
 <td>2&#x2F;3 <ruby><rb>さんぶんのに</rb></ruby></td>
 <td></td>
+</tr>
+</tbody></table>
+<h3 id="100以上"><a href="#100以上" class="headerlink" title="100以上"></a>100以上</h3><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>100 <ruby><rb>ひゃく</rb></ruby></td>
+<td>1,000 <ruby><rb>せん</rb></ruby></td>
+<td>10,000 <ruby><rb>いちまん</rb></ruby></td>
+</tr>
+<tr>
+<td>200 <ruby><rb>にひゃく</rb></ruby></td>
+<td>2,000 <ruby><rb>にせん</rb></ruby></td>
+<td>100,000 <ruby><rb>じゅうまん</rb></ruby></td>
+</tr>
+<tr>
+<td>300 <ruby><rb>びゃく</rb></ruby></td>
+<td>3,000 <ruby><rb>さんぜん</rb></ruby></td>
+<td>1,000,000 <ruby><rb>ひゃくまん</rb></ruby></td>
+</tr>
+<tr>
+<td>400 <ruby><rb>よんひゃく</rb></ruby></td>
+<td>4,000 <ruby><rb>よんせん</rb></ruby></td>
+<td>10,000,000 <ruby><rb>いっせんまん</rb></ruby></td>
+</tr>
+<tr>
+<td>500 <ruby><rb>ごひゃく</rb></ruby></td>
+<td>5,000 <ruby><rb>ごせん</rb></ruby></td>
+<td>100,000,000 <ruby><rb>いちおく</rb></ruby></td>
+</tr>
+<tr>
+<td>600 <ruby><rb>ろっぴゃく</rb></ruby></td>
+<td>6,000 <ruby><rb>ろくせん</rb></ruby></td>
+<td>9,002 <ruby><rb>きゅうせんに</rb></ruby></td>
+</tr>
+<tr>
+<td>700 <ruby><rb>ななひゃく</rb></ruby></td>
+<td>7,000 <ruby><rb>ななせん</rb></ruby></td>
+<td>9,020 <ruby><rb>きゅうせんにじゅう</rb></ruby></td>
+</tr>
+<tr>
+<td>800 <ruby><rb>はっぴゃく</rb></ruby></td>
+<td>8,000 <ruby><rb>はっせん</rb></ruby></td>
+<td>9,200 <ruby><rb>きゅうせんにひゃく</rb></ruby></td>
+</tr>
+<tr>
+<td>900 <ruby><rb>きゅうひゃく</rb></ruby></td>
+<td>9,000 <ruby><rb>きゅうせん</rb></ruby></td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="量词"><a href="#量词" class="headerlink" title="量词"></a>量词</h2><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><table>
+<thead>
+<tr>
+<th>量词</th>
+<th>场景</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>～ <ruby><rb>人</rb><rt>にん</rt></ruby></td>
+<td>人</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>台</rb><rt>だい</rt></ruby></td>
+<td>机械或车辆 (车, 电脑)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>枚</rb><rt>まい</rt></ruby></td>
+<td>扁平的物体 (纸, 盘子, 邮票)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>冊</rb><rt>さつ</rt></ruby></td>
+<td>书, 本子</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>歳</rb><rt>さい</rt></ruby></td>
+<td>年龄</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>回</rb><rt>かい</rt></ruby></td>
+<td>次数</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>着</rb><rt>ちゃく</rt></ruby></td>
+<td>衣服</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>個</rb><rt>こ</rt></ruby></td>
+<td>小物体 (鸡蛋, 饭团); 空容器 (箱子, 玻璃杯, 空罐子); 抽象的物体 (密码)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>本</rb><rt>ほん</rt></ruby></td>
+<td>细长的物体 (瓶子, 铅笔, 伞, 公交车, 地铁)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>杯</rb><rt>はい</rt></ruby></td>
+<td>容器内的饮料 (茶, 咖啡, 啤酒)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>匹</rb><rt>ひき</rt></ruby></td>
+<td>小型动物 (猫, 狗, 鱼, 昆虫)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>頭</rb><rt>とう</rt></ruby></td>
+<td>大型动物 (牛, 马, 象)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>羽</rb><rt>わ</rt></ruby></td>
+<td>鸟, 兔子</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>番</rb><rt>ばん</rt></ruby></td>
+<td>序号</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>足</rb><rt>そく</rt></ruby></td>
+<td>成对的物体 (鞋, 袜子)</td>
+</tr>
+<tr>
+<td>～ <ruby><rb>つ</rb></ruby></td>
+<td>1-9岁; 一般的物体; 抽象的物体 (选项, 谜); 不能用于10以上</td>
+</tr>
+</tbody></table>
+<h3 id="数量词"><a href="#数量词" class="headerlink" title="数量词"></a>数量词</h3><table>
+<thead>
+<tr>
+<th></th>
+<th>～つ</th>
+<th>〜人</th>
+<th>〜台</th>
+<th>〜個</th>
+<th>〜本</th>
+<th>〜杯</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td><ruby><rb>ひとつ</rb></ruby></td>
+<td><ruby><rb>ひとり</rb></ruby></td>
+<td><ruby><rb>いちだい</rb></ruby></td>
+<td><ruby><rb>いっこ</rb></ruby></td>
+<td><ruby><rb>いっぽん</rb></ruby></td>
+<td><ruby><rb>いっぱい</rb></ruby></td>
+</tr>
+<tr>
+<td>2</td>
+<td><ruby><rb>ふたつ</rb></ruby></td>
+<td><ruby><rb>ふたり</rb></ruby></td>
+<td><ruby><rb>にだい</rb></ruby></td>
+<td><ruby><rb>にこ</rb></ruby></td>
+<td><ruby><rb>にほん</rb></ruby></td>
+<td><ruby><rb>にはい</rb></ruby></td>
+</tr>
+<tr>
+<td>3</td>
+<td><ruby><rb>みっつ</rb></ruby></td>
+<td><ruby><rb>さんにん</rb></ruby></td>
+<td><ruby><rb>さんだい</rb></ruby></td>
+<td><ruby><rb>さんこ</rb></ruby></td>
+<td><ruby><rb>さんぼん</rb></ruby></td>
+<td><ruby><rb>さんばい</rb></ruby></td>
+</tr>
+<tr>
+<td>4</td>
+<td><ruby><rb>よっつ</rb></ruby></td>
+<td><ruby><rb>よにん</rb></ruby></td>
+<td><ruby><rb>よんだい</rb></ruby></td>
+<td><ruby><rb>よんこ</rb></ruby></td>
+<td><ruby><rb>よんほん</rb></ruby></td>
+<td><ruby><rb>よんはい</rb></ruby></td>
+</tr>
+<tr>
+<td>5</td>
+<td><ruby><rb>いつつ</rb></ruby></td>
+<td><ruby><rb>ごにん</rb></ruby></td>
+<td><ruby><rb>ごだい</rb></ruby></td>
+<td><ruby><rb>ごこ</rb></ruby></td>
+<td><ruby><rb>ごほん</rb></ruby></td>
+<td><ruby><rb>ごはい</rb></ruby></td>
+</tr>
+<tr>
+<td>6</td>
+<td><ruby><rb>むっつ</rb></ruby></td>
+<td><ruby><rb>ろくにん</rb></ruby></td>
+<td><ruby><rb>ろくだい</rb></ruby></td>
+<td><ruby><rb>るっこ</rb></ruby></td>
+<td><ruby><rb>ろっぽん</rb></ruby></td>
+<td><ruby><rb>ろっぱい</rb></ruby></td>
+</tr>
+<tr>
+<td>7</td>
+<td><ruby><rb>ななつ</rb></ruby></td>
+<td><ruby><rb>ななにん</rb></ruby></td>
+<td><ruby><rb>ななだい</rb></ruby></td>
+<td><ruby><rb>ななこ</rb></ruby></td>
+<td><ruby><rb>ななほん</rb></ruby></td>
+<td><ruby><rb>ななはい</rb></ruby></td>
+</tr>
+<tr>
+<td>8</td>
+<td><ruby><rb>やっつ</rb></ruby></td>
+<td><ruby><rb>はちにん</rb></ruby></td>
+<td><ruby><rb>はちだい</rb></ruby></td>
+<td><ruby><rb>はっこ</rb></ruby></td>
+<td><ruby><rb>はっぽん</rb></ruby></td>
+<td><ruby><rb>はっぱい</rb></ruby></td>
+</tr>
+<tr>
+<td>9</td>
+<td><ruby><rb>ここのつ</rb></ruby></td>
+<td><ruby><rb>きゅうにん</rb></ruby></td>
+<td><ruby><rb>きゅうだい</rb></ruby></td>
+<td><ruby><rb>きゅうこ</rb></ruby></td>
+<td><ruby><rb>きゅうほん</rb></ruby></td>
+<td><ruby><rb>きゅうはい</rb></ruby></td>
+</tr>
+<tr>
+<td>10</td>
+<td><ruby><rb>とお</rb></ruby></td>
+<td><ruby><rb>じゅうにん</rb></ruby></td>
+<td><ruby><rb>じゅうだい</rb></ruby></td>
+<td><ruby><rb>じゅっこ</rb></ruby></td>
+<td><ruby><rb>じゅっぽん</rb></ruby></td>
+<td><ruby><rb>じゅっぱい</rb></ruby></td>
+</tr>
+<tr>
+<td>?</td>
+<td><ruby><rb>いくつ</rb></ruby></td>
+<td><ruby><rb>なんにん</rb></ruby></td>
+<td><ruby><rb>なんだい</rb></ruby></td>
+<td><ruby><rb>なんこ</rb></ruby></td>
+<td><ruby><rb>なんぼん</rb></ruby></td>
+<td><ruby><rb>なんばい</rb></ruby></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -4107,38 +4389,93 @@
     <content><![CDATA[<p>学习日语动词</p>
 <span id="more"></span>
 
-<h2 id="动词分类"><a href="#动词分类" class="headerlink" title="动词分类"></a>动词分类</h2><div class="note info"><p>动词的去ます形: 动词ます形去掉ます, 剩下的不变<br>动词的て形: 链接两个或两个以上的动作</p>
+<h2 id="动词分类"><a href="#动词分类" class="headerlink" title="动词分类"></a>动词分类</h2><h3 id="一类动词"><a href="#一类动词" class="headerlink" title="一类动词"></a>一类动词</h3><p>う段假名结尾的动词: <ruby><rb>う、く、ぐ、す、つ、ぬ、ぶ、む</rb></ruby></p>
+<h3 id="二类动词"><a href="#二类动词" class="headerlink" title="二类动词"></a>二类动词</h3><p>る结尾的动词 (い段&#x2F;え段 + る结尾, 90%为二类动词)</p>
+<h3 id="三类动词"><a href="#三类动词" class="headerlink" title="三类动词"></a>三类动词</h3><p>只有两个:</p>
+<ul>
+<li><ruby><rb>する</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby></li>
+</ul>
+<div class="note warning"><p>双汉字名词&#x2F;片假名名词 + <ruby><rb>する</rb></ruby> 也是三类动词, 变形方式与 <ruby><rb>する</rb></ruby> 一致</p>
 </div>
 
-<h3 id="一类动词"><a href="#一类动词" class="headerlink" title="一类动词"></a>一类动词</h3><p>う段假名结尾的动词: <ruby><rb>う、く、ぐ、す、つ、ぬ、ぶ、む</rb></ruby></p>
-<div class="note info"><p>ます形: 结尾的う段假名 → い段假名 + ます</p>
-<p>て形:</p>
+<h2 id="动词变形"><a href="#动词变形" class="headerlink" title="动词变形"></a>动词变形</h2><div class="note info"><ul>
+<li>ます形: 敬体形</li>
+<li>去ます形: 动词ます形去掉ます, 剩下的不变</li>
+<li>て形: 链接两个或两个以上的动作</li>
+<li>ない &#x2F; なかった 形: 动词否定形式 (现在 &#x2F; 过去)</li>
+<li>た形: 过去的动作</li>
+</ul>
+</div>
+
+<h3 id="ます形"><a href="#ます形" class="headerlink" title="ます形"></a>ます形</h3><div class="note info"><p>一类:<br>结尾的 <ruby><rb>う</rb></ruby> 段假名 → <ruby><rb>い</rb></ruby> 段假名 + <ruby><rb>ます</rb></ruby></p>
+</div>
+
+<div class="note info"><p>二类:<br>去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>ます</rb></ruby></p>
+</div>
+
+<div class="note info"><p>三类:</p>
+<ul>
+<li><ruby><rb>する</rb></ruby> → <ruby><rb>します</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>ます</rb></ruby></li>
+</ul>
+</div>
+
+<h3 id="て形"><a href="#て形" class="headerlink" title="て形"></a>て形</h3><div class="note info"><p>一类:</p>
 <ul>
 <li><ruby><rb>う、つ、る</rb></ruby> 结尾 → 去掉 <ruby><rb>う、つ、る</rb></ruby> + <ruby><rb>って</rb></ruby></li>
 <li><ruby><rb>く、ぐ</rb></ruby> 结尾 → 去掉 <ruby><rb>く、ぐ</rb></ruby> + <ruby><rb>いて</rb></ruby> &#x2F; <ruby><rb>いで</rb></ruby></li>
 <li><ruby><rb>ね、ぶ、む</rb></ruby> 结尾 → 去掉 <ruby><rb>ね、ぶ、む</rb></ruby> + <ruby><rb>んで</rb></ruby></li>
 <li><ruby><rb>す</rb></ruby> 结尾 → 去掉 <ruby><rb>す</rb></ruby> + <ruby><rb>して</rb></ruby></li>
 </ul>
-</div>
-
 <div class="note warning"><p><ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>く</rb></ruby> 变て形: <ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>って</rb></ruby></p>
 </div>
-
-<h3 id="二类动词"><a href="#二类动词" class="headerlink" title="二类动词"></a>二类动词</h3><p>る结尾的动词 (い段&#x2F;え段 + る结尾, 90%为二类动词)</p>
-<div class="note info"><p>ます形: 去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>ます</rb></ruby></p>
-<p>て形:　去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>て</rb></ruby></p>
 </div>
 
-<h3 id="三类动词"><a href="#三类动词" class="headerlink" title="三类动词"></a>三类动词</h3><p>只有两个:</p>
+<div class="note info"><p>二类:<br>去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>て</rb></ruby></p>
+</div>
+
+<div class="note info"><p>三类:</p>
 <ul>
-<li><ruby><rb>する</rb></ruby></li>
-<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby></li>
+<li><ruby><rb>する</rb></ruby> → <ruby><rb>して</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>て</rb></ruby></li>
 </ul>
-<div class="note info"><p>ます形:<br><ruby><rb>する</rb></ruby> → <ruby><rb>します</rb></ruby><br><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>ます</rb></ruby></p>
-<p>て形:<br><ruby><rb>する</rb></ruby> → <ruby><rb>して</rb></ruby><br><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>て</rb></ruby></p>
 </div>
 
-<div class="note warning"><p>双汉字名词&#x2F;片假名名词 + <ruby><rb>する</rb></ruby> 也是三类动词, 变形方式与 <ruby><rb>する</rb></ruby> 一致</p>
+<h3 id="ない-なかった-形"><a href="#ない-なかった-形" class="headerlink" title="ない &#x2F; なかった 形"></a>ない &#x2F; なかった 形</h3><div class="note info"><p>一类:<br>结尾的 <ruby><rb>う</rb></ruby> 段假名 → <ruby><rb>あ</rb></ruby> 段假名 + <ruby><rb>ない</rb></ruby> &#x2F; <ruby><rb>なかった</rb></ruby></p>
+<div class="note warning"><p><ruby><rb>ある</rb></ruby> →　<ruby><rb>ない</rb></ruby> &#x2F; <ruby><rb>なかった</rb></ruby></p>
+</div>
+</div>
+
+<div class="note info"><p>二类:<br>去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>ない</rb></ruby> &#x2F; <ruby><rb>なかった</rb></ruby></p>
+</div>
+
+<div class="note info"><p>三类:</p>
+<ul>
+<li><ruby><rb>する</rb></ruby> → <ruby><rb>しない</rb></ruby> &#x2F; <ruby><rb>しなかった</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>こ</rt></ruby><ruby><rb>ない</rb></ruby> &#x2F; <ruby><rb>来</rb><rt>こ</rt></ruby><ruby><rb>なかった</rb></ruby></li>
+</ul>
+</div>
+
+<h3 id="た形"><a href="#た形" class="headerlink" title="た形"></a>た形</h3><div class="note info"><p>一类:</p>
+<ul>
+<li><ruby><rb>う、つ、る</rb></ruby> 结尾 → 去掉 <ruby><rb>う、つ、る</rb></ruby> + <ruby><rb>った</rb></ruby></li>
+<li><ruby><rb>く、ぐ</rb></ruby> 结尾 → 去掉 <ruby><rb>く、ぐ</rb></ruby> + <ruby><rb>いた</rb></ruby> &#x2F; <ruby><rb>いだ</rb></ruby></li>
+<li><ruby><rb>ね、ぶ、む</rb></ruby> 结尾 → 去掉 <ruby><rb>ね、ぶ、む</rb></ruby> + <ruby><rb>んだ</rb></ruby></li>
+<li><ruby><rb>す</rb></ruby> 结尾 → 去掉 <ruby><rb>す</rb></ruby> + <ruby><rb>した</rb></ruby></li>
+</ul>
+<div class="note warning"><p><ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>く</rb></ruby> 变て形: <ruby><rb>行</rb><rt>い</rt></ruby><ruby><rb>った</rb></ruby></p>
+</div>
+</div>
+
+<div class="note info"><p>二类:<br>去掉 <ruby><rb>る</rb></ruby> + <ruby><rb>た</rb></ruby></p>
+</div>
+
+<div class="note info"><p>三类:</p>
+<ul>
+<li><ruby><rb>する</rb></ruby> → <ruby><rb>した</rb></ruby></li>
+<li><ruby><rb>来</rb><rt>く</rt></ruby><ruby><rb>る</rb></ruby> → <ruby><rb>来</rb><rt>き</rt></ruby><ruby><rb>た</rb></ruby></li>
+</ul>
 </div>
 
 <h2 id="动词"><a href="#动词" class="headerlink" title="动词"></a>动词</h2><h3 id="一类"><a href="#一类" class="headerlink" title="一类"></a>一类</h3><table>
@@ -4696,6 +5033,13 @@
 <td>一类</td>
 <td><ruby><rb>渡</rb><rt>わた</rt></ruby><ruby><rb>します</rb></ruby></td>
 <td><ruby><rb>渡</rb><rt>わた</rt></ruby><ruby><rb>して</rb></ruby></td>
+</tr>
+<tr>
+<td><ruby><rb>やる</rb></ruby></td>
+<td>做 (自己做～ &#x2F; 给比自己身份地位低的人做～)</td>
+<td>一类</td>
+<td><ruby><rb>やります</rb></ruby></td>
+<td><ruby><rb>やって</rb></ruby></td>
 </tr>
 <tr>
 <td></td>
@@ -5675,6 +6019,105 @@
 <td>动词去ます形 &#x2F; 形容词去 い&#x2F;な + 過ぎる</td>
 </tr>
 </tbody></table>
+<h2 id="第22课-森さんは-毎晩-テレビを-見る"><a href="#第22课-森さんは-毎晩-テレビを-見る" class="headerlink" title="第22课 森さんは 毎晩 テレビを 見る"></a>第22课 森さんは 毎晩 テレビを 見る</h2><table>
+<thead>
+<tr>
+<th>日文</th>
+<th>中文</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><ruby><rb>送</rb><rt>そう</rt></ruby><ruby><rb>別</rb><rt>べつ</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></td>
+<td>欢送会</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>都</rb><rt>つ</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby></td>
+<td>情况</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>予</rb><rt>よ</rt></ruby><ruby><rb>定</rb><rt>てい</rt></ruby></td>
+<td>预计</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>玩具</rb><rt>おもちゃ</rt></ruby></td>
+<td>玩具</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>事</rb><rt>じ</rt></ruby></td>
+<td>火灾</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>間</rb><rt>かん</rt></ruby></td>
+<td>期间</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>勤</rb><rt>きん</rt></ruby></td>
+<td>调动工作</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>携</rb><rt>けい</rt></ruby><ruby><rb>帯</rb><rt>たい</rt></ruby></td>
+<td>电话</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>奥</rb><rt>おく</rt></ruby><ruby><rb>さん</rb></ruby></td>
+<td>夫人</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>歌</rb><rt>か</rt></ruby><ruby><rb>手</rb><rt>しゅ</rt></ruby></td>
+<td>歌手</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>統</rb><rt>とう</rt></ruby><ruby><rb>領</rb><rt>りょう</rt></ruby></td>
+<td>大总统</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>まあまあ</rb></ruby></td>
+<td>大致</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>あんまり</rb></ruby></td>
+<td>非常</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>ごめん</rb></ruby></td>
+<td>抱歉</td>
+<td></td>
+</tr>
+<tr>
+<td><ruby><rb>いや</rb></ruby></td>
+<td>不</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>Learning</category>
@@ -5682,6 +6125,186 @@
       <tags>
         <tag>Japanese</tag>
         <tag>Language</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日语语法</title>
+    <url>/2025/11/japanese-grammar/</url>
+    <content><![CDATA[<p>学习日语语法</p>
+<span id="more"></span>
+
+<h2 id="句型"><a href="#句型" class="headerlink" title="句型"></a>句型</h2><h3 id="判断"><a href="#判断" class="headerlink" title="判断"></a>判断</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>A <ruby><rb>は</rb></ruby> B <ruby><rb>です</rb></ruby></td>
+<td>A 是 B</td>
+</tr>
+<tr>
+<td>A <ruby><rb>は</rb></ruby> B <ruby><rb>ではありません</rb></ruby></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="存在"><a href="#存在" class="headerlink" title="存在"></a>存在</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>あります</rb></ruby></td>
+<td>有xx (无生命)</td>
+</tr>
+<tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>います</rb></ruby></td>
+<td>有xx (有生命)</td>
+</tr>
+<tr>
+<td>N <ruby><rb>は</rb></ruby> 地点N <ruby><rb>に</rb></ruby> <ruby><rb>あります</rb></ruby></td>
+<td>xx (无生命) 在某处</td>
+</tr>
+<tr>
+<td>N <ruby><rb>は</rb></ruby> 地点N <ruby><rb>に</rb></ruby> <ruby><rb>います</rb></ruby></td>
+<td>xx (有生命) 在某处</td>
+</tr>
+<tr>
+<td>地点N <ruby><rb>に</rb></ruby> N　<ruby><rb>が</rb></ruby> <ruby><rb>あります</rb></ruby></td>
+<td>某处有xx (无生命)</td>
+</tr>
+<tr>
+<td>地点N <ruby><rb>に</rb></ruby> N　<ruby><rb>が</rb></ruby> <ruby><rb>います</rb></ruby></td>
+<td>某处有xx (有生命)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="动作"><a href="#动作" class="headerlink" title="动作"></a>动作</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>N <ruby><rb>を</rb></ruby> V</td>
+<td>做…</td>
+</tr>
+<tr>
+<td>地点N <ruby><rb>で</rb></ruby> V</td>
+<td>在…做…</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="目的"><a href="#目的" class="headerlink" title="目的"></a>目的</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>地点N <ruby><rb>へ</rb></ruby> <ruby><rb>行きます</rb></ruby> &#x2F; <ruby><rb>来ます</rb></ruby> &#x2F; <ruby><rb>帰ります</rb></ruby></td>
+<td>去&#x2F;来&#x2F;回…</td>
+</tr>
+<tr>
+<td>V去ます形 <ruby><rb>に</rb></ruby> <ruby><rb>行きます</rb></ruby></td>
+<td>去做…</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="动词て形"><a href="#动词て形" class="headerlink" title="动词て形"></a>动词て形</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>V <ruby><rb>て</rb></ruby> <ruby><rb>ください</rb></ruby></td>
+<td>请做…</td>
+</tr>
+<tr>
+<td>V <ruby><rb>ても</rb></ruby> <ruby><rb>いいです</rb></ruby></td>
+<td>可以做…</td>
+</tr>
+<tr>
+<td>V <ruby><rb>ては</rb></ruby> <ruby><rb>いけません</rb></ruby></td>
+<td>不可以做…</td>
+</tr>
+<tr>
+<td>V <ruby><rb>て</rb></ruby> <ruby><rb>います</rb></ruby></td>
+<td>正在做…</td>
+</tr>
+<tr>
+<td>V <ruby><rb>て</rb></ruby> V</td>
+<td>动词并列</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="喜好-能力"><a href="#喜好-能力" class="headerlink" title="喜好 &#x2F; 能力"></a>喜好 &#x2F; 能力</h3><table>
+<thead>
+<tr>
+<th>句型</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>好きです</rb></ruby></td>
+<td>喜欢…</td>
+</tr>
+<tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>欲しいです</rb></ruby></td>
+<td>想要…</td>
+</tr>
+<tr>
+<td>N <ruby><rb>を</rb></ruby> V去ます形 <ruby><rb>たいです</rb></ruby></td>
+<td>想做…</td>
+</tr>
+<tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>分かります</rb></ruby></td>
+<td>懂…</td>
+</tr>
+<tr>
+<td>N <ruby><rb>が</rb></ruby> <ruby><rb>できます</rb></ruby></td>
+<td>会…</td>
+</tr>
+<tr>
+<td>V原形 <ruby><rb>こと</rb></ruby> <ruby><rb>が</rb></ruby> <ruby><rb>できます</rb></ruby></td>
+<td>能做…</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Learning</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+        <tag>Language</tag>
+        <tag>Grammar</tag>
       </tags>
   </entry>
 </search>

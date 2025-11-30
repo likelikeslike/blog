@@ -1447,7 +1447,7 @@ ruby > :first-child {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #adffdd;
+    background: #edcb17;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3289,25 +3289,6 @@ blockquote.blockquote-center {
 .post-tags a {
   border-bottom: none;
   font-size: 0.875em;
-}
-/**********************************************************/
-/********************* 图片与相册 **************************/
-/**********************************************************/
-figcaption {
-  margin: -10px auto 1em;
-  color: #999;
-  font-size: 0.875em;
-  line-height: 1;
-  text-align: center;
-}
-.group-picture {
-  margin-bottom: 5px;
-}
-.group-picture-column .image-caption {
-  margin-top: 10px;
-}
-.group-picture .group-picture-row {
-  display: inline-flex;
 }
 figure.highlight {
   line-height: 1.6;
